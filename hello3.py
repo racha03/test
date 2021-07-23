@@ -1,1 +1,1 @@
-print("Hello lung");
+print("Hello lung")
